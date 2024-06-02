@@ -39,7 +39,7 @@ root.geometry("600x400")
 root.resizable(width=False, height=False)
 root.config(bg="#1C2833") 
 root.title("Password generator- SHIVAM AHUJA")
-photo = tk.PhotoImage(file= "F:\Code Soft tasks\password generator/secure.jpg")
+photo = tk.PhotoImage(file= "D:\CodeSoft tasks\password generator\secure.jpg")
 root.iconphoto(False, photo)
 
 lf = LabelFrame(root, text="Enter password details", font=("Helvetica", 12, "bold"), bg="#212121", fg="white")
